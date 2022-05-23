@@ -3,11 +3,13 @@
 We are Ride, an on-demand e-Rickshaw app for small towns. If you think that's cool and exciting email me at dk@rideapp.in
 
 What we use:
- #### Frameworks, Libraries and Runtimes
+ #### Frontned
   * Flutter
-  * Node.js
- #### Infrastructure
+ #### Backend
+  * Node.js + TS
+  * Go
   * gRPC
+ #### Infrastructure
   * Docker
   * Cloud Run
   * GCP
