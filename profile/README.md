@@ -12,6 +12,7 @@ What we use:
  #### Infrastructure
   * Docker
   * Cloud Run
+  * Firebase
   * GCP
 #### Automation
   * Github Actions
