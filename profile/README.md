@@ -8,7 +8,7 @@ What we use:
  #### Backend
   * Node.js + TS
   * Go
-  * gRPC
+  * gRPC (Via [Connect Protocol](https://connect.build))
  #### Infrastructure
   * Docker
   * Cloud Run
@@ -19,3 +19,4 @@ What we use:
 #### Tools
   * [Buf](https://buf.build)
   * [Trunk](https://trunk.io)
+  * [Pulumi](https://pulumi.com)
