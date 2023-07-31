@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Ride, an on-demand e-Rickshaw app for small towns. If you think that's cool and exciting email me at dk@rideapp.in
+We are Ride, an on-demand e-rickshaw app for small towns. If you think that's cool and exciting email me at dk@rideapp.in
 
 What we use:
  #### Frontned
@@ -15,7 +15,8 @@ What we use:
   * Firebase
   * GCP
 #### Automation
-  * Github Actions
+  * GitHub Actions
+  * [Pulumi Deployments](https://www.pulumi.com/product/pulumi-deployments/)
 #### Tools
   * [Buf](https://buf.build)
   * [Trunk](https://trunk.io)
