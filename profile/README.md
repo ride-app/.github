@@ -16,8 +16,10 @@ What we use:
   * GCP
 #### Automation
   * GitHub Actions
+  * Cloud Build
   * [Pulumi Deployments](https://www.pulumi.com/product/pulumi-deployments/)
 #### Tools
   * [Buf](https://buf.build)
   * [Trunk](https://trunk.io)
   * [Pulumi](https://pulumi.com)
+  * [Sweep](https://sweep.dev)
