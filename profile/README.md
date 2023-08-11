@@ -14,6 +14,7 @@ What we use:
   * Cloud Run
   * Firebase
   * GCP
+  * [Pulumi](https://pulumi.com)
 #### Automation
   * GitHub Actions
   * Cloud Build
@@ -21,5 +22,4 @@ What we use:
 #### Tools
   * [Buf](https://buf.build)
   * [Trunk](https://trunk.io)
-  * [Pulumi](https://pulumi.com)
   * [Sweep](https://sweep.dev)
