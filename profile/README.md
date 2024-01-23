@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Ride, an on-demand e-rickshaw app for small towns. If you think that's cool and exciting email me at dk@rideapp.in
+We are Ride, an on-demand e-rickshaw app for small towns. If you think that's cool and exciting email me at bossman@rideapp.in
 
 What we use:
  #### Frontned
