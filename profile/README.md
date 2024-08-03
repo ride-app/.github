@@ -20,7 +20,7 @@ What we use:
   * Cloud Build
   * [Pulumi Deployments](https://www.pulumi.com/product/pulumi-deployments/)
 #### Tools
-  * [Bazel](https://bazel.build)
+  * [Taskfile](https://taskfile.dev/)
   * [Buf](https://buf.build)
   * [Trunk](https://trunk.io)
   * [Sweep](https://sweep.dev)
